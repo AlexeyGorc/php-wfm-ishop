@@ -1,6 +1,6 @@
 /data
 /web/node_modules
-/web/vendor
+
 
 /.idea
 /.vscode
