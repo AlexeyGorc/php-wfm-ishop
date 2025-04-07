@@ -1,0 +1,11 @@
+/data
+/web/node_modules
+/web/vendor
+
+/.idea
+/.vscode
+
+.DS_Store
+.env
+
+docker/ssl/
